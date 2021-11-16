@@ -1,21 +1,15 @@
 ---
 title: Johari_Fenster
-tags: agil klassisch
+tags: klassisch
 author: ChrisBohl
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Johari_Fenster um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Motivation 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Kommunikation ist ein wichtiges Element für eine effektive Teamkollaboration. Eine durch Kommunikation verbesserte Teamzusammenarbeit erhöht die Wahrscheinlichkeit, dass die Tätigkeiten des Teams auf einen erfolgreichen Projektabschluss abzielen. Unternehmen haben das Potenzial von Kommunikation in der Teambildung erkannt und stellen dementsprechend Budget und zeitliche Aufwendungen für die Entwicklung von Kommunikation in Projektmanagementprozessen bereit. Vor diesem Hintergrund ist es für den:die Projektmanager:in von entscheidenter Bedeutung, die Entwicklung von Kommunikationskompetenzen während der Teamzusammenarbeit in Projektmangementprozessen mit besonderen Augenmerk zu fördern. Das heißt einerseits, dass Lernprozesse in der alltäglichen Teamkollaboration bestmöglich und methodengestützt unterstützt werden und andererseits, dass Störungen für die Kommunikationskompetenzentwicklung des Teams möglichst minimiert werden. Eine Methode zur Förderung der Kommunikationskompetenzentwicklung auf Teamebene ist das Johari Fenster [^1]. 
+[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -97,7 +91,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Seeing through the Johari Windowimproving the quality of interpersonal communication (PMBOK Learning: https://www.pmi.org/learning/library/improving-quality-interpersonal-communication-7781)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
